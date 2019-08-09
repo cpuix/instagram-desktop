@@ -1,0 +1,24 @@
+{
+  "name": "instagram-desktop",
+  "productName": "Instagram Desktop",
+  "version": "1.0.0",
+  "description": "Instagram for Desktop",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "package-mac": "electron-packager . --overwrite --platform=darwin --arch=x64 --icon=assets/icon.icns --prune=true --out=release-builds",
+    "package-win": "electron-packager . instagram-desktop --platform=win32 --arch=x64 --out=dist/"
+  },
+  "keywords": [
+    "instagram",
+    "instagram desktop"
+  ],
+  "author": "Kerem Bahcivan",
+  "license": "MIT ",
+  "devDependencies": {
+    "electron": "^6.0.1",
+    "electron-builder": "^21.2.0",
+    "electron-installer-windows": "^2.0.0",
+    "path": "^0.12.7"
+  }
+}
