@@ -5,3 +5,5 @@ Try Instagram from the desktop app with features like attaching photos and sendi
 * Upload photos
 * Browse stories
 * Reply to your messages
+
+Get the app: http://instagramdesktop.net
