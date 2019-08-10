@@ -8,11 +8,6 @@ Try Instagram from the desktop app with features like attaching photos and sendi
 
 Get the app: http://instagramdesktop.net
 
-
-# Install & Build Code
-* npm i -g electron-packager
-* npm run package-mac
-
 Install & Build Code:
 
 ```js
