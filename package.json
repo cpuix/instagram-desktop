@@ -17,7 +17,7 @@
   "author": "Kerem Bahcivan",
   "license": "MIT ",
   "devDependencies": {
-    "electron": "^6.0.1",
+    "electron": "^9.1.0",
     "electron-builder": "^21.2.0",
     "electron-installer-windows": "^2.0.0",
     "path": "^0.12.7"
